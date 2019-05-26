@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Mobile"
+        },
+        {
+            "id": 2,
+            "name": "Microwave"
+        },
+        {
+            "id": 3,
+            "name": "TV"
+        },
+        {
+            "id": 4,
+            "name": "Refrg"
+        },
+        {
+            "id": 5,
+            "name": "Shoes"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Nike2",
+            "price": 15000,
+            "rating": 1,
+            "category_ids": [2,1]
+        },
+        {
+            "id": 2,
+            "name": "Nike2",
+            "price": 2000,
+            "rating": 2,
+            "category_ids": [1,5]
+        },
+        {
+            "id": 3,
+            "name": "TV",
+            "price": 5000,
+            "rating": 3,
+            "category_ids": [1,2,3]
+        },
+        {
+            "id": 4,
+            "name": "Nike2",
+            "price": 10000,
+            "rating": 4,
+            "category_ids": [1,2]
+        },
+        {
+            "id": 5,
+            "name": "Nike1",
+            "price": 10000,
+            "rating": 5,
+            "category_ids": [1,2]
+        },
+        {
+            "id": 6,
+            "name": "Nike1",
+            "price": 10000,
+            "rating": 2,
+            "category_ids": [1,2]
+        },
+        {
+            "id": 7,
+            "name": "Nike1",
+            "price": 10000,
+            "rating": 3,
+            "category_ids": [1,2]
+        },
+        {
+            "id": 8,
+            "name": "Nike4",
+            "price": 10000,
+            "rating": 4,
+            "category_ids": [1,2]
+        }
+    ]
+}
